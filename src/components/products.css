@@ -1,0 +1,15 @@
+.product_header {
+  display: flex;
+  flex: start;
+  padding: 1rem;
+  font-size: 2rem;
+  font-weight: 900;
+  background: blue;
+  color: #fff;
+}
+
+.Store {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+}
